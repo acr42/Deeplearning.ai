@@ -1,6 +1,6 @@
 
 
-# Deep Learning Coursera
+# Deeplearning.ai Course
 
 Code from when I completed the first [course](https://github.com/acr42/Deeplearning.ai/tree/master/Course1) of the Deeplearning.ai series, during the first term of my MSc in Data Science & Machine Learning.  
 
